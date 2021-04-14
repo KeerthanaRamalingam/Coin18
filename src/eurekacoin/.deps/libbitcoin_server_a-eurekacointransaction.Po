@@ -1,0 +1,4 @@
+eurekacoin/libbitcoin_server_a-eurekacointransaction.o: eurekacoin/eurekacointransaction.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
